@@ -1,32 +1,3 @@
-    body {
-      font-family: -apple-system, Segoe UI, Arial, sans-serif;
-      max-width: 700px;
-      margin: 60px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #222;
-    }
-    h1 { margin-bottom: 0.2em; }
-    .subtitle { color: #666; margin-top: 0; }
-    .download-btn {
-      display: inline-block;
-      background: #2563eb;
-      color: white;
-      padding: 12px 24px;
-      border-radius: 6px;
-      text-decoration: none;
-      font-weight: 600;
-      margin: 20px 0;
-    }
-    .download-btn:hover { background: #1d4ed8; }
-    code {
-      background: #f3f4f6;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    ul { padding-left: 20px; }
-  </style>
-</head>
 <body>
   <h1>Kinematics Calculator</h1>
   <p class="subtitle">Solve any 1D kinematic (SUVAT) equation — enter what you know, get what you don't.</p>
