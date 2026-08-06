@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Kinematics Calculator</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
     body {
       font-family: -apple-system, Segoe UI, Arial, sans-serif;
       max-width: 700px;
