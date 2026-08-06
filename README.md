@@ -2,7 +2,7 @@
 
 Solve any 1D kinematic (SUVAT) equation.
 
-[Download for Windows here]https://github.com/EulerNTM/kinematics-calculator/releases/download/kinematics/kinematiccalculator.exe
+[Download for Windows here](https://github.com/EulerNTM/kinematics-calculator/releases/download/kinematics/kinematiccalculator.exe)
 
 ## What it does
 
