@@ -1,32 +1,25 @@
-<body>
-  <h1>Kinematics Calculator</h1>
-  <p class="subtitle">Solve any 1D kinematic (SUVAT) equation — enter what you know, get what you don't.</p>
+# kinematics-calculator
 
-  <a class="download-btn" href="https://github.com/yourusername/kinematics-calculator/releases/latest">
-    Download for Windows (.exe)
-  </a>
+Solve any 1D kinematic (SUVAT) equation.
 
-  <h2>What it does</h2>
-  <p>
-    Enter any combination of known values — initial velocity, final velocity,
-    acceleration, time, or displacement — and the calculator solves for whatever's
-    missing using symbolic algebra (via <a href="https://www.sympy.org/">sympy</a>),
-    rather than hardcoded formulas for each case.
-  </p>
+[Download for Windows here]https://github.com/EulerNTM/kinematics-calculator/releases/download/kinematics/kinematiccalculator.exe
 
-  <h2>Features</h2>
-  <ul>
-    <li>Works with any valid combination of known variables</li>
-    <li>Defaults to <code>v0 = 0</code> (starting from rest) if not specified</li>
-    <li>Flags inconsistent or underdetermined inputs instead of failing silently</li>
-    <li>No installation required — just run the .exe</li>
-  </ul>
+## What it does
 
-  <h2>Source code</h2>
-  <p>
-    Full source is available on
-    <a href="https://github.com/yourusername/kinematics-calculator">GitHub</a>.
-    Built with Python, Tkinter, and sympy.
-  </p>
-</body>
-</html>
+Enter any combination of known values and the calculator solves for all unknown variables using symbolic algebra (sympy).
+
+## Features
+
+- Works with any valid combination of known variables
+
+- Defaults to v0 = 0 if not specified
+
+- Flags improper inputs and no common solutions.
+
+- No installation required, all code is packaged in an .exe
+
+## Source code
+
+Full source is available on GitHub. Built with Python, Tkinter, and sympy. 
+
+
