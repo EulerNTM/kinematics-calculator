@@ -1,6 +1,6 @@
 # kinematics-calculator
 
-Solve any 1D kinematic (SUVAT) equation.
+Solve any 1D or 2D kinematic (SUVAT) equation.
 
 [Download for Windows here](https://github.com/EulerNTM/kinematics-calculator/releases/download/kinematics/kinematiccalculator.exe)
 
@@ -10,9 +10,7 @@ Enter any combination of known values and the calculator solves for all unknown 
 
 ## Features
 
-- Works with any valid combination of known variables
-
-- Defaults to v0 = 0 if not specified
+- Works with any valid combination of known variables.
 
 - Flags improper inputs and no common solutions.
 
